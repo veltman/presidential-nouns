@@ -9,7 +9,7 @@ You can have a *pride* of lions or a *parliament* of owls. What is the appropria
 5. A *doctrine* of Monroes  
 6. An *oration* of Adamses (John Quincy)  
 7. A *removal* of Jacksons  
-8. A _____ of Van Burens  
+8. A *modesty* of Van Burens  
 9. A *brevity* of Harrisons (William Henry)  
 10. An *annexation* of Tylers  
 11. A *destiny* of Polks  
@@ -28,7 +28,7 @@ You can have a *pride* of lions or a *parliament* of owls. What is the appropria
 24. A *recurrence* of Clevelands (second term)  
 25. A *gilding* of McKinleys  
 26. A *fleet* of Roosevelts (Teddy)  
-27. A _____ of Tafts  
+27. A *girth* of Tafts  
 28. A *league* of Wilsons  
 29. A *scandal* of Hardings  
 30. A *silence* of Coolidges  
