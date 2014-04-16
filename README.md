@@ -36,7 +36,7 @@ Guidelines: one word if possible, no proper nouns.
 30. A *silence* of Coolidges  
 31. A *dam* of Hoovers  
 32. A *deal* of Roosevelts (FDR)  
-33. A _____ of Trumans  
+33. A *buck* of Trumans  
 34. An *interstate* of Eisenhowers  
 35. A *crisis* of Kennedys  
 36. A *treatment* of Johnsons (LBJ)  
@@ -47,4 +47,4 @@ Guidelines: one word if possible, no proper nouns.
 41. A _____ of Bushes (H.W.)  
 42. A _____ of Clintons  
 43. A _____ of Bushes (W.)  
-44. A _____ of Obamas  
+44. An *audacity* of Obamas  
