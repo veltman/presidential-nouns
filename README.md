@@ -24,7 +24,7 @@ Guidelines: one word if possible, no proper nouns.
 18. A *panic* of Grants  
 19. A *reconstruction* of Hayeses  
 20. A _____ of Garfields  
-21. A _____ of Arthurs  
+21. A *patronage* of Arthurs  
 22. A *bastard* of Clevelands (first term)  
 23. A _____ of Harrisons (Benjamin)  
 24. A *recurrence* of Clevelands (second term)  
