@@ -44,7 +44,7 @@ Guidelines: one word if possible, no proper nouns.
 38. A *succession* of Fords  
 39. A *malaise* of Carters  
 40. A _____ of Reagans  
-41. A prudence of Bushes (H.W.)  
+41. A *prudence* of Bushes (H.W.)  
 42. A *triangulation* of Clintons  
-43. A certainty of Bushes (W.)  
+43. A *certainty* of Bushes (W.)  
 44. An *audacity* of Obamas  
