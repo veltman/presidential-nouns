@@ -28,7 +28,7 @@ You can have a *pride* of lions or a *parliament* of owls. What is the appropria
 24. A *recurrence* of Clevelands (second term)  
 25. A *gilding* of McKinleys  
 26. A *fleet* of Roosevelts (Teddy)  
-27. A _____ of Tafts  
+27. A *gluttony* of Tafts  
 28. A *league* of Wilsons  
 29. A *scandal* of Hardings  
 30. A *silence* of Coolidges  
