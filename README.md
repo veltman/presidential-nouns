@@ -1,6 +1,6 @@
 # Nouns of Assembly for US Presidents
 
-YOu can have a *cackle* of hyenas, a *pride* of lions, or a *parliament* of owls. What is the appropriate (collective noun)[http://en.wikipedia.org/wiki/Collective_noun] for each US president?
+YOu can have a *cackle* of hyenas, a *pride* of lions, or a *parliament* of owls. What is the appropriate [collective noun](http://en.wikipedia.org/wiki/Collective_noun) for each US president?
 
 1. A crossing of Washingtons
 2. A _____ of Adamses (John)  
