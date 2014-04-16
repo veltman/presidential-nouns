@@ -5,7 +5,7 @@ You can have a *pride* of lions or a *parliament* of owls. What is the appropria
 1. A *crossing* of Washingtons
 2. A _____ of Adamses (John)  
 3. A *declaration* of Jeffersons  
-4. A _____ of Madisons  
+4. A *conflagration* of Madisons  
 5. A *doctrine* of Monroes  
 6. An *oration* of Adamses (John Quincy)  
 7. A *removal* of Jacksons  
