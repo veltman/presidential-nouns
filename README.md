@@ -43,8 +43,8 @@ Guidelines: one word if possible, no proper nouns.
 37. A *trick* of Nixons  
 38. A *succession* of Fords  
 39. A *malaise* of Carters  
-40. A _____ of Reagans  
-41. A _____ of Bushes (H.W.)  
-42. A _____ of Clintons  
-43. A _____ of Bushes (W.)  
+40. A *senility* of Reagans  
+41. A *line in the sand* of Bushes (H.W.)  
+42. A *philandering* of Clintons  
+43. A *hanging chad* of Bushes (W.)  
 44. An *audacity* of Obamas  
