@@ -38,7 +38,7 @@ You can have a *pride* of lions or a *parliament* of owls. What is the appropria
 34. An *interstate* of Eisenhowers  
 35. A *crisis* of Kennedys  
 36. A *treatment* of Johnsons (LBJ)  
-37. A *trick* of Nixons  
+37. A *silent majority* of Nixons  
 38. A *succession* of Fords  
 39. A *malaise* of Carters  
 40. A _____ of Reagans  
