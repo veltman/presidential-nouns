@@ -9,7 +9,7 @@ You can have a *pride* of lions or a *parliament* of owls. What is the appropria
 5. A *doctrine* of Monroes  
 6. An *oration* of Adamses (John Quincy)  
 7. A *removal* of Jacksons  
-8. A _____ of Van Burens  
+8. A *panic* of Van Burens  
 9. A *brevity* of Harrisons (William Henry)  
 10. An *annexation* of Tylers  
 11. A *destiny* of Polks  
