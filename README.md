@@ -40,7 +40,7 @@ You can have a *pride* of lions or a *parliament* of owls. What is the appropria
 36. A _____ of Johnsons (LBJ)  
 37. A *trick* of Nixons  
 38. A _____ of Fords  
-39. A _____ of Carters  
+39. A *malaise* of Carters  
 40. A _____ of Reagans  
 41. A _____ of Bushes (H.W.)  
 42. A _____ of Clintons  
