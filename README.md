@@ -46,5 +46,5 @@ Guidelines: one word if possible, no proper nouns.
 40. A _____ of Reagans  
 41. A _____ of Bushes (H.W.)  
 42. A _____ of Clintons  
-43. A _____ of Bushes (W.)  
+43. A *canvas* of Bushes (W.)  
 44. An *audacity* of Obamas  
