@@ -7,7 +7,7 @@ You can have a *pride* of lions or a *parliament* of owls. What is the appropria
 3. A *declaration* of Jeffersons  
 4. A _____ of Madisons  
 5. A *doctrine* of Monroes  
-6. A _____ of Adamses (John Quincy)  
+6. An *oration* of Adamses (John Quincy)  
 7. A *removal* of Jacksons  
 8. A _____ of Van Burens  
 9. A *brevity* of Harrisons (William Henry)  
@@ -15,10 +15,10 @@ You can have a *pride* of lions or a *parliament* of owls. What is the appropria
 11. A *destiny* of Polks  
 12. A _____ of Taylors  
 13. A *compromise* of Fillmores  
-14. A _____ of Pierces  
+14. A *disappointment* of Pierces  
 15. A _____ of Buchanans  
 16. A _____ of Lincolns  
-17. An impeachment of Johnsons (Andrew)  
+17. An *impeachment* of Johnsons (Andrew)  
 18. A *panic* of Grants  
 19. A *reconstruction* of Hayeses  
 20. A _____ of Garfields  
@@ -26,11 +26,11 @@ You can have a *pride* of lions or a *parliament* of owls. What is the appropria
 22. A *bastard* of Clevelands (first term)  
 23. A _____ of Harrisons (Benjamin)  
 24. A *recurrence* of Clevelands (second term)  
-25. A _____ of McKinleys  
+25. A *gilding* of McKinleys  
 26. A *fleet* of Roosevelts (Teddy)  
 27. A _____ of Tafts  
 28. A *league* of Wilsons  
-29. A *dome* of Hardings  
+29. A *scandal* of Hardings  
 30. A *silence* of Coolidges  
 31. A *dam* of Hoovers  
 32. A *deal* of Roosevelts (FDR)  
