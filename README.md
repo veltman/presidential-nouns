@@ -7,7 +7,7 @@ Guidelines: one word if possible, no proper nouns.
 1. A *crossing* of Washingtons
 2. A *diplomacy* of Adamses (John)  
 3. A *declaration* of Jeffersons  
-4. A _____ of Madisons  
+4. A *federalist* of Madisons  
 5. A *doctrine* of Monroes  
 6. An *oration* of Adamses (John Quincy)  
 7. A *removal* of Jacksons  
