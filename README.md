@@ -19,7 +19,7 @@ Guidelines: one word if possible, no proper nouns.
 13. A *compromise* of Fillmores  
 14. A *disappointment* of Pierces  
 15. A *bachelor* of Buchanans  
-16. An *emancipation* of Lincolns  
+16. An *union* of Lincolns  
 17. An *impeachment* of Johnsons (Andrew)  
 18. A *panic* of Grants  
 19. A *reconstruction* of Hayeses  
