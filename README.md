@@ -34,7 +34,7 @@ Guidelines: one word if possible, no proper nouns.
 28. A *league* of Wilsons  
 29. A *scandal* of Hardings  
 30. A *silence* of Coolidges  
-31. A *dam* of Hoovers  
+31. A *depression* of Hoovers  
 32. A *deal* of Roosevelts (FDR)  
 33. A *buck* of Trumans  
 34. An *interstate* of Eisenhowers  
