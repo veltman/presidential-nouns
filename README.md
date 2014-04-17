@@ -46,5 +46,5 @@ Guidelines: one word if possible, no proper nouns.
 40. A *morning* of Reagans  
 41. A *prudence* of Bushes (H.W.)  
 42. A *triangulation* of Clintons  
-43. A *certainty* of Bushes (W.)  
+43. A *misunderestimation* of Bushes (W.)  
 44. An *audacity* of Obamas  
