@@ -15,7 +15,7 @@ Guidelines: one word if possible, no proper nouns.
 9. A *brevity* of Harrisons (William Henry)  
 10. An *annexation* of Tylers  
 11. A *destiny* of Polks  
-12. A _____ of Taylors  
+12. An *indifference* of Taylors  
 13. A *compromise* of Fillmores  
 14. A *disappointment* of Pierces  
 15. A *bachelor* of Buchanans  
