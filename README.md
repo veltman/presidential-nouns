@@ -23,7 +23,7 @@ Guidelines: one word if possible, no proper nouns.
 17. An *impeachment* of Johnsons (Andrew)  
 18. A *panic* of Grants  
 19. A *reconstruction* of Hayeses  
-20. A _____ of Garfields  
+20. A *stalwart* of Garfields  
 21. A *patronage* of Arthurs  
 22. A *bastard* of Clevelands (first term)  
 23. A _____ of Harrisons (Benjamin)  
@@ -34,7 +34,7 @@ Guidelines: one word if possible, no proper nouns.
 28. A *league* of Wilsons  
 29. A *scandal* of Hardings  
 30. A *silence* of Coolidges  
-31. A *dam* of Hoovers  
+31. A *depression* of Hoovers  
 32. A *deal* of Roosevelts (FDR)  
 33. A *buck* of Trumans  
 34. An *interstate* of Eisenhowers  
@@ -46,5 +46,5 @@ Guidelines: one word if possible, no proper nouns.
 40. A _____ of Reagans  
 41. A *prudence* of Bushes (H.W.)  
 42. A *triangulation* of Clintons  
-43. A *certainty* of Bushes (W.)  
+43. A *misunderestimation* of Bushes (W.)  
 44. An *audacity* of Obamas  
