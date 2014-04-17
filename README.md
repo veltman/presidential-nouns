@@ -23,7 +23,7 @@ Guidelines: one word if possible, no proper nouns.
 17. An *impeachment* of Johnsons (Andrew)  
 18. A *panic* of Grants  
 19. A *reconstruction* of Hayeses  
-20. A _____ of Garfields  
+20. A *malpractice* of Garfields  
 21. A *patronage* of Arthurs  
 22. A *bastard* of Clevelands (first term)  
 23. A *taxation* of Harrisons (Benjamin)  
