@@ -26,11 +26,11 @@ Guidelines: one word if possible, no proper nouns.
 20. A _____ of Garfields  
 21. A *patronage* of Arthurs  
 22. A *bastard* of Clevelands (first term)  
-23. A _____ of Harrisons (Benjamin)  
+23. A *taxation* of Harrisons (Benjamin)  
 24. A *recurrence* of Clevelands (second term)  
 25. A *gilding* of McKinleys  
 26. A *fleet* of Roosevelts (Teddy)  
-27. A _____ of Tafts  
+27. A *circumference* of Tafts  
 28. A *league* of Wilsons  
 29. A *scandal* of Hardings  
 30. A *silence* of Coolidges  
@@ -40,10 +40,10 @@ Guidelines: one word if possible, no proper nouns.
 34. An *interstate* of Eisenhowers  
 35. A *crisis* of Kennedys  
 36. A *treatment* of Johnsons (LBJ)  
-37. A *trick* of Nixons  
+37. A *majority* of Nixons  
 38. A *succession* of Fords  
 39. A *malaise* of Carters  
-40. A _____ of Reagans  
+40. A *morning* of Reagans  
 41. A *prudence* of Bushes (H.W.)  
 42. A *triangulation* of Clintons  
 43. A *certainty* of Bushes (W.)  
